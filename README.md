@@ -5,7 +5,7 @@
 + 김영근
 + 김승신
 ## Stack
-+ <img src="https://img.shields.io/badge/flutter-violet"> <img src="https://img.shields.io/badge/firebase-1572B6?style=for-the-badge&logo=firebase&logoColor=white">
++ <img src="https://img.shields.io/badge/JAVA-violet"> 
 + Oracle
 + Eclipse
 + 아직 작성이 완료되지 않음
