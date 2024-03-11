@@ -24,5 +24,9 @@
 관리자 회원 관리 기능
 + 회원 제명 및 예약, 회원 정보 수정 가능
 
+## Flow Chart
+![Flow Chart](images/flow%20chart.png)
+
+
 ## E-R Diagram
 ![E-R Diagram](images/UAP%20E-R%20diagram.png)
