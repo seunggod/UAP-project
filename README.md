@@ -8,10 +8,10 @@
 <img src="https://img.shields.io/badge/oracle-1572B6?style=for-the-badge&logo=oracle&logoColor=white"> 
 
 ## 주요 기능 설명
-회원가입 기능
++ 회원가입 기능
 
-로그인 기능
-+ 관리자 계정으로 로그인 시 관리자 화면으로 이동
++ 로그인 기능
+관리자 계정으로 로그인 시 관리자 화면으로 이동
 
 + 사용자 정보 확인 기능
 
