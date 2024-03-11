@@ -1,15 +1,10 @@
 # UAP
------
 ## 프로젝트 개요
------
 + Swing을 이용한 헬스장 프로그램입니다.
 ## 팀원 및 역할
------
 + 김영근
 + 김승신
------
 ## Stack
------
 + <img src="https://img.shields.io/badge/flutter-violet"> <img src="https://img.shields.io/badge/firebase-1572B6?style=for-the-badge&logo=firebase&logoColor=white">
 + Oracle
 + Eclipse
