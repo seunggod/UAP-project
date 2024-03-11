@@ -25,4 +25,4 @@
 + 회원 제명 및 예약, 회원 정보 수정 가능
 
 ## E-R Diagram
-![E-R Diagram][images/UAP%20E-R%20diagram.png]
+![E-R%20Diagram][images/UAP%20E-R%20diagram.png]
